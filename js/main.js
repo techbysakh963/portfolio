@@ -218,16 +218,14 @@ class LanguageSwitcher {
         this.wordsEN = [
             'Systems Engineer',
             'DevOps Specialist',
-            'Cybersecurity Enthusiast',
-            'Full Stack Developer',
+            'Cybersecurity Specialist',
             'Automation Expert'
         ];
 
         this.wordsAR = [
             'مهندس أنظمة',
             'متخصص DevOps',
-            'متحمس للأمن السيبراني',
-            'مطور Full Stack',
+            'مختص أمن سيبراني',
             'خبير أتمتة'
         ];
 
